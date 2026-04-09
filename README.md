@@ -72,7 +72,9 @@
 		- Margins Seperator | Kara | Global Menu | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Peek at Desktop | Margins Seperator 
 		- (PanelColorizer) Preset: 34. Transparent
 		- Kara
-			- Appearance → Indicator Syle: Pills
+			- Appearance
+   				- Layout Settings → Spacing: 6px	
+   				- Indicator Syle: Pills
 		- Digital Clock
 			- Appearance
 				- Information: ON - Show date → Always Beside time
