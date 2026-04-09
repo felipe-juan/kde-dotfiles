@@ -1,3 +1,4 @@
+![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_121520.png)
 - **Nautilus**
 	- Adjust Display View 
 		- Sorting: Descending → Created
