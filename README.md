@@ -1,2 +1,206 @@
-# kde-dotfiles
-A few customization I made on my KDE trial
+- **Nautilus**
+	- Adjust Display View 
+		- Sorting: Descending → Created
+		- OFF - Show folders first
+		- ON - Show preview
+		- ON - Show hidden files
+		- Additional information
+			- ON - Size
+			- ON - Created
+			- ON - Type
+		- Configure Dolphin… –> Context Menu
+			- The only options that are ON:
+				- 'Compress' service menu
+				- 'Copy To' and 'Move To' commands
+				- 'Extract' service menu
+				- Add to Places
+				- Delete
+				- Duplicate Here…
+				- Install 
+				- Makefile Actions
+				- Mount ISO and disk images
+				- Open in New Tab
+				- Open in New Window
+				- Open in Split View
+				- Open Terminal Here
+				- Run in Konsole
+				- Send file via KDE Connect
+				- Set as
+				- Tags
+- **Spectacle**
+	- General
+		- When launching Spectacle:
+			- Use last-used capture mode
+		- After taking a screenshot:
+			- ON - Save file to default folder
+			- Copy image to clipboard
+		- Text extraction:
+			- ON - CLose after extraction (skips auto-save)
+- **KRunner**
+	- Position on screen → Center
+	- History → Enable suggestions
+- **Klipper**
+	- Genereal
+		- ON - Save history across desktop sessions
+		- Clipboard history → 500 entries
+		- Selection and Clipboard → ON - Keep the selection and clipboard the same
+- **Panels/Widgets**
+	- Top Panel
+		- Margins Seperator | Kara | Usage Infos | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Peek at Desktop | Margins Seperator 
+		- (PanelColorizer) Preset: 34. Transparent
+		- Kara
+			- Appearance → Indicator Syle: Pills
+		- Digital Clock
+			- Appearance
+				- Information: ON - Show date → Always Beside time
+				- Time display: 24-hour
+				- Data format: Long date
+			- Calendar
+				- ON - Holidays
+				- ON - Calendar Events
+		- System Tray
+			- Notifications | Updates | Clipboard | Volume | Bluetooth | Brightness | Wi-Fi | Power and Battery
+			- Set whatever application with a colorized/incosistent icon to "Show only in popup" lol
+	- Bottom Panel
+		- PlasMusic | Icons-Only TaskManager | Application Launcher
+		- (PanelColorizer) Preset: 11. Dock
+		- PlasMusic
+			- Panel View
+				- ON - Use album cover as icon
+				- Fallback to icon if cover is not available
+				- max width: 150
+				- Text scrolling
+					- Enabled
+					- When text overflows: Always scroll
+					- ON - Pause scrolling while media is not playing
+		- Icons-Only TaskManager
+			- Behaviour → Scrolling behaviour: Cycles through all tasks
+		- Application Launcher
+			- General → Show buttons for: Power and session 
+- **Shortcuts**
+	- KRunner → `Alt` + `R`
+	- Spectacle
+		- Capture Active → `Meta` + `Shift` + `W`
+		- Capture Entire Desktop → `Meta` + `Shift` + `F`
+		- Capture Rectangular Region → `Meta` + `Shift` + `S` 
+		- Capture Selected Window → `Meta` + `Shift` + `E`
+		- Start/Stop Region Recording → `Alt` + `Shift` + `R`
+		- Start/Stop Screen Recording → `Alt` + `Shift` + `F`
+		- `Start/Stop Window Recording` → `Alt` + `Shift` + `W`
+	- System Monitor → `Ctrl` + `Shift` + `Esc`
+	- Vivaldi → `Meta` + `B`
+	- Window Management
+		- Keep Window Above Others → `Alt` + ~
+		- Kill Window → `Meta` + `Shift` + `X`
+		- Krohnkite
+			- Move Down/Next → `Alt` + `S`
+			- Move Left → `Alt` + `A`
+			- Move Right → `Alt` + `D`
+			- Move Up/Prev → `Alt` + `W`
+			- Next Layout: `Ctrl` + `Alt` + `Right`
+			- Previous Layout: `Ctrl` + `Alt` + `Left`
+			- Toggle Float → `Alt` + `F`
+			- Toggle Float All: `Ctrl` + `Alt` + `A`
+		- Maximize Window → `Meta` + `W`
+		- Minimize Window → `Meta` + `S`
+		- Peek at Desktop → `Meta` + `D`
+		- Swith to Next Desktop → `Meta` + `Ctrl` + `Right`
+		- Switch to Previous Desktop → `Meta` + `Ctrl` + `Left`
+		- Toggle Overview → `Meta` + `Tab`
+		- Walk Through Windows → `Alt` + `Tab`
+
+- **Window Bahevior**
+	- Focus 
+		- Window activation policy: Focus follows mouse
+		- Delay focus by: 300 ms
+		- Raise on hover, delayed by: 300 ms
+	- Window Actions
+		- Modifier key: Alt 
+		- Left click: Move
+		- Middle click: Toggle raise and lower
+		- Right click: Resize
+		- Mouse Wheel: Do Nothing
+- **Task Switcher**
+	- OFF - All "Filter windows by" settings:
+		- OFF - Virtual Desktops
+		- OFF - Activies
+- **Desktop Effects**
+	- Better Blur DX
+		- General → Corner Radius: 15.00
+		- Force blur: 
+			- ON - Blur only matching
+			- ON - Blur window decorations as well
+			- ON - Blur menus
+			- ON - Blur docs
+	- Desaturate Unresponsive Applications
+	- Geometry Change
+	- Rounded Corners (formerly ShapeCorners)
+		- Roundness
+			- Active Window → Corner Roundness Radius: 15.00
+			- Inactive Window → Corner Roundness Radius: 15.00
+			- ON - Disable Roundness on FullScreen
+	- Dialog Parent
+	- Dim Screen for Administrator Mode
+	- Slide Back
+	- Overview
+- **Window Rules**
+	- Add New…
+		- Description → .*
+		- Window class → Regular expression
+		- Size & Poisition
+			- Minimum Size → Force → 0
+- **KWIN Scripts**
+	- Desktop Change OSD
+	- Krohnkite
+		- Layouts
+			- Tile Layout → Order: 0
+			- Spiral Layout → Order: 1
+			- Binary Tree Layout: Order: 2
+			- Spread Layout → Order: 4
+		- Geometry
+			- Top → 10px
+			- Left → 15px
+			- Between tiles → 15px
+			- Right → 15px
+			- Bottom → 15px
+	- Temporary Virtual Desktops
+		- ON - Keep one spare empty desktop
+- **Colors & Themes**
+	- **Colors** → ChromeOsKDE-Darknes
+		- Options → Frames and Outlines → Contrast → 0%
+	- **Application Style**
+		- ON - Enable extended resize handles
+		- Everything else is off
+	- **Plasma Style** → Orochis Dark
+	- **Window Decorations**
+		- General
+			- ON - Round bottom corners of windows with no borders
+		- Shadows and Outline
+			- OFF - Draw window outline
+		- Window-Specific Overrides → Add
+			- Matching window property: Window Class Name
+			- Regular expression to match: .*
+			- Decoration Options:
+			- OFF - Border size
+			- ON - Hide Window title bar
+	- **Icons** → WhiteSur
+	- **Cursors** → Qogir-Dark
+- **TouchPad**
+	- OFF - Disable while typing
+	- ON - Invert scroll direction (natural scrolling)
+	- ON - Pressing anywhere with two fingers
+	- ON - Taap to click
+	- ON - Right-click (three finger tap  to middle-click)
+
+- **GTK - Consistency with same color scheme**
+	- Copy the `gtk-3.0` and `gtk-4.0` folders to `$HOME/.config/`
+
+- etc/environment
+```
+export GTK_IM_MODULE=cedilla
+export QT_IM_MODULE=cedilla
+export QT_SCALE_FACTOR=1.1
+export QT_QPA_PLATFORMTHEME=‘gnome’
+QT_WAYLAND_DISABLE_WINDOWDECORATION=1
+GTK_WAYLAND_DISABLE_WINDOWDECORATION=1
+```
