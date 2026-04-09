@@ -69,7 +69,7 @@
 		- Selection and Clipboard → ON - Keep the selection and clipboard the same
 - **Panels/Widgets**
 	- Top Panel
-		- Margins Seperator | Kara | Usage Infos | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Peek at Desktop | Margins Seperator 
+		- Margins Seperator | Kara | Global Menu | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Peek at Desktop | Margins Seperator 
 		- (PanelColorizer) Preset: 34. Transparent
 		- Kara
 			- Appearance → Indicator Syle: Pills
