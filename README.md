@@ -1,5 +1,5 @@
 ![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_121520.png)
-- **Nautilus**
+- **Dolphin**
 	- Adjust Display View 
 		- Sorting: Descending → Created
 		- OFF - Show folders first
