@@ -1,4 +1,4 @@
-![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_134052.png)
+![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_134310.png)
 - **Colors & Themes**
 	- **Colors** → ChromeOsKDE-Darknes
 		- Options → Frames and Outlines → Contrast → 0%
