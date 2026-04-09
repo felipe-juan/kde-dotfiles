@@ -9,25 +9,25 @@
 			- ON - Size
 			- ON - Created
 			- ON - Type
-		- Configure Dolphin… –> Context Menu
-			- The only options that are ON:
-				- 'Compress' service menu
-				- 'Copy To' and 'Move To' commands
-				- 'Extract' service menu
-				- Add to Places
-				- Delete
-				- Duplicate Here…
-				- Install 
-				- Makefile Actions
-				- Mount ISO and disk images
-				- Open in New Tab
-				- Open in New Window
-				- Open in Split View
-				- Open Terminal Here
-				- Run in Konsole
-				- Send file via KDE Connect
-				- Set as
-				- Tags
+	- Configure Dolphin… –> Context Menu
+		- The only options that are ON:
+			- 'Compress' service menu
+			- 'Copy To' and 'Move To' commands
+			- 'Extract' service menu
+			- Add to Places
+			- Delete
+			- Duplicate Here…
+			- Install 
+			- Makefile Actions
+			- Mount ISO and disk images
+			- Open in New Tab
+			- Open in New Window
+			- Open in Split View
+			- Open Terminal Here
+			- Run in Konsole
+			- Send file via KDE Connect
+			- Set as
+			- Tags
 - **Spectacle**
 	- General
 		- When launching Spectacle:
