@@ -62,7 +62,7 @@
 		- System Tray
 			- Notifications | Updates | Clipboard | Volume | Bluetooth | Brightness | Wi-Fi | Power and Battery
 			- Set whatever application with a colorized/incosistent icon to "Show only in popup" lol
-	- Bottom Panel
+	- Bottom Panel -> Visibility: Dodge windows
 		- PlasMusic | Icons-Only TaskManager | Application Launcher
 		- (PanelColorizer) Preset: 11. Dock
 		- PlasMusic
