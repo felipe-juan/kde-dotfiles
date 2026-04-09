@@ -173,7 +173,7 @@
 		- ON - Enable extended resize handles
 		- Everything else is off
 	- **Plasma Style** → Orochis Dark
-	- **Window Decorations**
+	- **Window Decorations** -> Breeze
 		- General
 			- ON - Round bottom corners of windows with no borders
 		- Shadows and Outline
