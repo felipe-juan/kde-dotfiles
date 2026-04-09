@@ -1,4 +1,26 @@
 ![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_121520.png)
+- **Colors & Themes**
+	- **Colors** → ChromeOsKDE-Darknes
+		- Options → Frames and Outlines → Contrast → 0%
+	- **Application Style**
+		- ON - Enable extended resize handles
+		- Everything else is off
+	- **Plasma Style** → Orochis Dark
+	- **Window Decorations** → Breeze
+		- General
+			- ON - Round bottom corners of windows with no borders
+		- Shadows and Outline
+			- OFF - Draw window outline
+		- Window-Specific Overrides → Add
+			- Matching window property: Window Class Name
+			- Regular expression to match: .*
+			- Decoration Options:
+			- OFF - Border size
+			- ON - Hide Window title bar
+	- **Icons** → WhiteSur
+	- **Cursors** → Qogir-Dark
+ 	- **Fonts** → Poppins 	
+
 - **Dolphin**
 	- Adjust Display View 
 		- Sorting: Descending → Created
@@ -62,7 +84,7 @@
 		- System Tray
 			- Notifications | Updates | Clipboard | Volume | Bluetooth | Brightness | Wi-Fi | Power and Battery
 			- Set whatever application with a colorized/incosistent icon to "Show only in popup" lol
-	- Bottom Panel -> Visibility: Dodge windows
+	- Bottom Panel → Visibility: Dodge windows
 		- PlasMusic | Icons-Only TaskManager | Application Launcher
 		- (PanelColorizer) Preset: 11. Dock
 		- PlasMusic
@@ -166,26 +188,7 @@
 			- Bottom → 15px
 	- Temporary Virtual Desktops
 		- ON - Keep one spare empty desktop
-- **Colors & Themes**
-	- **Colors** → ChromeOsKDE-Darknes
-		- Options → Frames and Outlines → Contrast → 0%
-	- **Application Style**
-		- ON - Enable extended resize handles
-		- Everything else is off
-	- **Plasma Style** → Orochis Dark
-	- **Window Decorations** -> Breeze
-		- General
-			- ON - Round bottom corners of windows with no borders
-		- Shadows and Outline
-			- OFF - Draw window outline
-		- Window-Specific Overrides → Add
-			- Matching window property: Window Class Name
-			- Regular expression to match: .*
-			- Decoration Options:
-			- OFF - Border size
-			- ON - Hide Window title bar
-	- **Icons** → WhiteSur
-	- **Cursors** → Qogir-Dark
+
 - **TouchPad**
 	- OFF - Disable while typing
 	- ON - Invert scroll direction (natural scrolling)
