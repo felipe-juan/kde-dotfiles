@@ -58,6 +58,7 @@
 		- After taking a screenshot:
 			- ON - Save file to default folder
 			- Copy image to clipboard
+   		- General: ON - Accept on click-and-release
 		- Text extraction:
 			- ON - CLose after extraction (skips auto-save)
 - **KRunner**
