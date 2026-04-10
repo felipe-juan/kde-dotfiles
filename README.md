@@ -1,4 +1,5 @@
 ![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_134310.png)
+
 - **Colors & Themes**
 	- **Colors** → ChromeOsKDE-Darknes
 		- Options → Frames and Outlines → Contrast → 0%
@@ -72,7 +73,7 @@
 		- Selection and Clipboard → ON - Keep the selection and clipboard the same
 - **Panels/Widgets**
 	- Top Panel
-		- Margins Seperator | Kara | Global Menu | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Peek at Desktop | Margins Seperator 
+		- Margins Seperator | Kara | Margins Seperator | Global Menu | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Margins Separator | Peek at Desktop | Margins Seperator 
 		- (PanelColorizer) Preset: 34. Transparent
 		- Kara
 			- Appearance
@@ -90,7 +91,7 @@
 			- Notifications | Updates | Clipboard | Volume | Bluetooth | Brightness | Wi-Fi | Power and Battery
 			- Set whatever application with a colorized/incosistent icon to "Show only in popup" lol
 	- Bottom Panel → Visibility: Dodge windows
-		- PlasMusic | Icons-Only TaskManager | Application Launcher
+		- Margins Seperator | PlasMusic | Icons-Only TaskManager | Application Launcher | Margins Seperator 
 		- (PanelColorizer) Preset: 11. Dock
 		- PlasMusic
 			- Panel View
