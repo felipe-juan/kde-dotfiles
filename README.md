@@ -1,4 +1,4 @@
-![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260409_134310.png)
+![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260410_001139.png)
 
 - **Colors & Themes**
 	- **Colors** → ChromeOsKDE-Darknes
