@@ -71,7 +71,6 @@
 	- Genereal
 		- ON - Save history across desktop sessions
 		- Clipboard history → 500 entries
-		- Selection and Clipboard → ON - Keep the selection and clipboard the same
 - **Panels/Widgets**
 	- Top Panel
 		- Margins Seperator | Kara | Margins Seperator | Global Menu | Panel Spacer | Digital Clock | Panel Spacer | System Tray | Margins Separator | Peek at Desktop | Margins Seperator 
