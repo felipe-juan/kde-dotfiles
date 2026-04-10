@@ -60,7 +60,7 @@
 			- Copy image to clipboard
    		- General: ON - Accept on click-and-release
 		- Text extraction:
-			- ON - CLose after extraction (skips auto-save)
+			- ON - Close after extraction (skips auto-save)
 - **KRunner**
 	- Position on screen → Center
 	- History → Enable suggestions
