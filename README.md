@@ -95,7 +95,7 @@
 		- (PanelColorizer) Preset: 11. Dock
 		- PlasMusic
 			- Panel View
-   				- Song text alignment: Right (Bottom for vertical panel) 
+   				- Song text alignment: Left
 				- ON - Use album cover as icon
 				- Fallback to icon if cover is not available
     			- Song tile position: First Line
