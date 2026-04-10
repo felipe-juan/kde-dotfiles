@@ -111,6 +111,7 @@
         		- ON - Colors from album cover  
 		- Icons-Only TaskManager
 			- Behaviour → Scrolling behaviour: Cycles through all tasks
+   			- Space between icons: Small 
 		- Application Launcher
 			- General → Show buttons for: Power and session 
 - **Shortcuts**
