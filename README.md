@@ -96,7 +96,7 @@
 			- Panel View
 				- ON - Use album cover as icon
 				- Fallback to icon if cover is not available
-				- max width: 150
+				- ON - Use fixed width → 150%
 				- Text scrolling
 					- Enabled
 					- When text overflows: Always scroll
