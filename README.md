@@ -94,13 +94,17 @@
 		- (PanelColorizer) Preset: 11. Dock
 		- PlasMusic
 			- Panel View
+   				- Song text alignment: Right (Bottom for vertical panel) 
 				- ON - Use album cover as icon
 				- Fallback to icon if cover is not available
-				- ON - Use fixed width → 150%
+				- OFF - Use fixed width
+    			- max width: 200
 				- Text scrolling
 					- Enabled
 					- When text overflows: Always scroll
 					- ON - Pause scrolling while media is not playing
+     			- ON - Media progress
+        		- ON - Colors from album cover  
 		- Icons-Only TaskManager
 			- Behaviour → Scrolling behaviour: Cycles through all tasks
 		- Application Launcher
