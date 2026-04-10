@@ -20,7 +20,7 @@
 			- ON - Hide Window title bar
 	- **Icons** → WhiteSur
 	- **Cursors** → Qogir-Dark
- 	- **Fonts** → Poppins 	
+ 	- **Fonts** → Poppins / Monocraft / Pixelify (it depends on my mood)	
 
 - **Dolphin**
 	- Adjust Display View 
