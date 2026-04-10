@@ -207,7 +207,7 @@
 	- Copy the `gtk-3.0` and `gtk-4.0` folders to `$HOME/.config/`
 
 
-- */etc/environment*
+- **/etc/environment**
 ```
 export GTK_IM_MODULE=cedilla
 export QT_IM_MODULE=cedilla
