@@ -1,4 +1,4 @@
-![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260410_001139.png)
+![](https://github.com/felipe-juan/kde-dotfiles/blob/main/Screenshot_20260410_002535.png)
 
 - **Colors & Themes**
 	- **Colors** → ChromeOsKDE-Darknes
@@ -81,7 +81,7 @@
    				- Indicator Syle: Pills
 		- Digital Clock
 			- Appearance
-				- Information: ON - Show date → Always Beside time
+				- Information: ON - Show date → Adaptive location
 				- Time display: 24-hour
 				- Data format: Long date
 			- Calendar
