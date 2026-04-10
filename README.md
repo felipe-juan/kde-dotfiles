@@ -62,6 +62,9 @@
 - **KRunner**
 	- Position on screen → Center
 	- History → Enable suggestions
+ 	- New Plugins
+  		- Translator
+		- EmojiRUnner  
 - **Klipper**
 	- Genereal
 		- ON - Save history across desktop sessions
