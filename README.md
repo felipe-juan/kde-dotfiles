@@ -198,10 +198,16 @@
 	- ON - Taap to click
 	- ON - Right-click (three finger tap  to middle-click)
 
+- Wallpapers
+	- Desktop and Lock Screen: [the gif I uploaded here](https://github.com/felipe-juan/kde-dotfiles/blob/main/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0-ezgif.com-speed(1).gif)
+ 	- Login Screen: [Qylock's "Pixel Dusk City" Theme](https://github.com/Darkkal44/qylock/)
+  		- Disclaimer: Depending on which distro/KDE you're on, maybe you have Plasma Login Manager (PLM) instead of SDDM for the default login manager. If so, you can uninstall it and install SDDM (packages `sddm` and `sddm-kcm`) to use it.
+
 - **GTK - Consistency with same color scheme**
 	- Copy the `gtk-3.0` and `gtk-4.0` folders to `$HOME/.config/`
 
-- etc/environment
+
+- */etc/environment*
 ```
 export GTK_IM_MODULE=cedilla
 export QT_IM_MODULE=cedilla
