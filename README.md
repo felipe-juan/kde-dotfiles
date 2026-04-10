@@ -195,7 +195,7 @@
 	- OFF - Disable while typing
 	- ON - Invert scroll direction (natural scrolling)
 	- ON - Pressing anywhere with two fingers
-	- ON - Taap to click
+	- ON - Tap to click
 	- ON - Right-click (three finger tap  to middle-click)
 
 - Wallpapers
