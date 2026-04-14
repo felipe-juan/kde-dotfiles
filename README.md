@@ -218,6 +218,25 @@
 - **GTK - Consistency with same color scheme**
 	- Copy the `gtk-3.0` and `gtk-4.0` folders to `$HOME/.config/`
 
+- Plugins Enabled:
+	- Desktop Effects
+ 		- Better Blur DX
+   		- Geometry Change
+     	- Rounded Corners (formerly ShapeCorners)
+      	- Dialog Parent
+      	- Dim Screen for Administrator Mode
+      	- Slides
+      	- Cube
+      	- Overview
+	- KWin Scripts
+ 		- Desktop Change OSD 
+ 		- Krohnkite
+    	- Temporary Virtual Desktop
+	- 3rd Party Widgets
+ 		- Panel Colorizer
+   		- PlasMusic
+     	- Kara    
+
 
 - **/etc/environment**
 ```
